@@ -8,6 +8,14 @@
 
 - navigation.md
 
+## 구매 페이지 추가
+
+- pur.md 추기기
+
+## 장바구니 추가
+
+- cart.md 추가
+
 ## 스타일 구성
 
 - style.md 파일 추가
